@@ -23,7 +23,7 @@ ssh <user>@<server>
 ###Example :
 
 ssh tony@stapp01
-Password: Ir0nM@n
+Password: xxxxx
 
 ###Confirm Correct Server
 hostname

@@ -8,9 +8,9 @@ Enhance server security by preventing direct SSH login as `root`. Users must SSH
 ## Servers Targeted
 | Server   | User   | Password  | Purpose       |
 |----------|--------|-----------|---------------|
-| stapp01  | tony   | Ir0nM@n   | App Server 1 |
-| stapp02  | steve  | Am3ric@   | App Server 2 |
-| stapp03  | banner | BigGr33n  | App Server 3 |
+| stapp01  | tony   | xxxxxxx   | App Server 1 |
+| stapp02  | steve  | xxxxxxx   | App Server 2 |
+| stapp03  | banner | xxxxxxx   | App Server 3 |
 
 ---
 
